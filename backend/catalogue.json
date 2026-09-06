@@ -1,0 +1,2095 @@
+{
+  "version": 1,
+  "shows": [
+    {
+      "id": 1,
+      "slug": "motis-many-lives",
+      "title": "Moti's Many Lives",
+      "description": "Moti the dog is reborn across India, making new friends in every state.",
+      "section": "featured",
+      "categories": [
+        "adventure",
+        "friendship",
+        "india"
+      ],
+      "artwork": {
+        "poster": "/seed/ep_0001/poster",
+        "banner": "/seed/ep_0001/banner"
+      },
+      "seasons": [
+        {
+          "season_number": 1,
+          "title": "Season 1",
+          "episodes": [
+            {
+              "content_group": "motis-many-lives-s01e01",
+              "episode_number": 1,
+              "title": "The Lost Kite",
+              "description": "Moti the dog is reborn across India, making new friends in every state.",
+              "duration_seconds": 510,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0001/poster",
+                "thumbnail": "/seed/ep_0001/thumbnail",
+                "banner": "/seed/ep_0001/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Lost Kite",
+                  "duration_seconds": 510,
+                  "artwork": {
+                    "poster": "/seed/ep_0001/poster",
+                    "thumbnail": "/seed/ep_0001/thumbnail",
+                    "banner": "/seed/ep_0001/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "The Lost Kite",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0002/poster",
+                    "thumbnail": "/seed/ep_0002/thumbnail",
+                    "banner": "/seed/ep_0002/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "motis-many-lives-s01e02",
+              "episode_number": 2,
+              "title": "Rain on the Roof",
+              "description": "Moti the dog is reborn across India, making new friends in every state.",
+              "duration_seconds": 540,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0003/poster",
+                "thumbnail": "/seed/ep_0003/thumbnail",
+                "banner": "/seed/ep_0003/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Rain on the Roof",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0003/poster",
+                    "thumbnail": "/seed/ep_0003/thumbnail",
+                    "banner": "/seed/ep_0003/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "Rain on the Roof",
+                  "duration_seconds": 660,
+                  "artwork": {
+                    "poster": "/seed/ep_0004/poster",
+                    "thumbnail": "/seed/ep_0004/thumbnail",
+                    "banner": "/seed/ep_0004/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "motis-many-lives-s01e03",
+              "episode_number": 3,
+              "title": "A Bridge of Stones",
+              "description": "Moti the dog is reborn across India, making new friends in every state.",
+              "duration_seconds": 420,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0005/poster",
+                "thumbnail": "/seed/ep_0005/thumbnail",
+                "banner": "/seed/ep_0005/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "A Bridge of Stones",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0005/poster",
+                    "thumbnail": "/seed/ep_0005/thumbnail",
+                    "banner": "/seed/ep_0005/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "A Bridge of Stones",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0006/poster",
+                    "thumbnail": "/seed/ep_0006/thumbnail",
+                    "banner": "/seed/ep_0006/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "motis-many-lives-s01e04",
+              "episode_number": 4,
+              "title": "The Midnight Market",
+              "description": "Moti the dog is reborn across India, making new friends in every state.",
+              "duration_seconds": 600,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0007/poster",
+                "thumbnail": "/seed/ep_0007/thumbnail",
+                "banner": "/seed/ep_0007/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Midnight Market",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0007/poster",
+                    "thumbnail": "/seed/ep_0007/thumbnail",
+                    "banner": "/seed/ep_0007/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "The Midnight Market",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0008/poster",
+                    "thumbnail": "/seed/ep_0008/thumbnail",
+                    "banner": "/seed/ep_0008/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "motis-many-lives-s01e05",
+              "episode_number": 5,
+              "title": "Footprints in Flour",
+              "description": "Moti the dog is reborn across India, making new friends in every state.",
+              "duration_seconds": 510,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0009/poster",
+                "thumbnail": "/seed/ep_0009/thumbnail",
+                "banner": "/seed/ep_0009/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Footprints in Flour",
+                  "duration_seconds": 510,
+                  "artwork": {
+                    "poster": "/seed/ep_0009/poster",
+                    "thumbnail": "/seed/ep_0009/thumbnail",
+                    "banner": "/seed/ep_0009/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "Footprints in Flour",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0010/poster",
+                    "thumbnail": "/seed/ep_0010/thumbnail",
+                    "banner": "/seed/ep_0010/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "motis-many-lives-s01e06",
+              "episode_number": 6,
+              "title": "The Whistling Well",
+              "description": "Moti the dog is reborn across India, making new friends in every state.",
+              "duration_seconds": 420,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0011/poster",
+                "thumbnail": "/seed/ep_0011/thumbnail",
+                "banner": "/seed/ep_0011/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Whistling Well",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0011/poster",
+                    "thumbnail": "/seed/ep_0011/thumbnail",
+                    "banner": "/seed/ep_0011/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "The Whistling Well",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0012/poster",
+                    "thumbnail": "/seed/ep_0012/thumbnail",
+                    "banner": "/seed/ep_0012/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "motis-many-lives-s01e07",
+              "episode_number": 7,
+              "title": "Grandmother's Map",
+              "description": "Moti the dog is reborn across India, making new friends in every state.",
+              "duration_seconds": 480,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0013/poster",
+                "thumbnail": "/seed/ep_0013/thumbnail",
+                "banner": "/seed/ep_0013/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Grandmother's Map",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0013/poster",
+                    "thumbnail": "/seed/ep_0013/thumbnail",
+                    "banner": "/seed/ep_0013/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "motis-many-lives-s01e08",
+              "episode_number": 8,
+              "title": "The Runaway Cart",
+              "description": "Moti the dog is reborn across India, making new friends in every state.",
+              "duration_seconds": 420,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0014/poster",
+                "thumbnail": "/seed/ep_0014/thumbnail",
+                "banner": "/seed/ep_0014/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Runaway Cart",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0014/poster",
+                    "thumbnail": "/seed/ep_0014/thumbnail",
+                    "banner": "/seed/ep_0014/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "motis-many-lives-s01e09",
+              "episode_number": 9,
+              "title": "Songs of the Sea",
+              "description": "Moti the dog is reborn across India, making new friends in every state.",
+              "duration_seconds": 420,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0015/poster",
+                "thumbnail": "/seed/ep_0015/thumbnail",
+                "banner": "/seed/ep_0015/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Songs of the Sea",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0015/poster",
+                    "thumbnail": "/seed/ep_0015/thumbnail",
+                    "banner": "/seed/ep_0015/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "motis-many-lives-s01e10",
+              "episode_number": 10,
+              "title": "The Paper Boat",
+              "description": "Moti the dog is reborn across India, making new friends in every state.",
+              "duration_seconds": 540,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0016/poster",
+                "thumbnail": "/seed/ep_0016/thumbnail",
+                "banner": "/seed/ep_0016/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Paper Boat",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0016/poster",
+                    "thumbnail": "/seed/ep_0016/thumbnail",
+                    "banner": "/seed/ep_0016/banner"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "curious-cubs",
+      "title": "Curious Cubs",
+      "description": "Two cubs ask big questions about the natural world.",
+      "section": "series",
+      "categories": [
+        "nature",
+        "science"
+      ],
+      "artwork": {
+        "poster": "/seed/ep_0069/poster",
+        "banner": "/seed/ep_0069/banner"
+      },
+      "seasons": [
+        {
+          "season_number": 1,
+          "title": "Season 1",
+          "episodes": [
+            {
+              "content_group": "curious-cubs-s01e01",
+              "episode_number": 1,
+              "title": "The Lost Kite",
+              "description": "Two cubs ask big questions about the natural world.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0069/poster",
+                "thumbnail": "/seed/ep_0069/thumbnail",
+                "banner": "/seed/ep_0069/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Lost Kite",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0069/poster",
+                    "thumbnail": "/seed/ep_0069/thumbnail",
+                    "banner": "/seed/ep_0069/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "curious-cubs-s01e02",
+              "episode_number": 2,
+              "title": "Rain on the Roof",
+              "description": "Two cubs ask big questions about the natural world.",
+              "duration_seconds": 540,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0070/poster",
+                "thumbnail": "/seed/ep_0070/thumbnail",
+                "banner": "/seed/ep_0070/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Rain on the Roof",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0070/poster",
+                    "thumbnail": "/seed/ep_0070/thumbnail",
+                    "banner": "/seed/ep_0070/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "curious-cubs-s01e03",
+              "episode_number": 3,
+              "title": "A BRIDGE OF STONES",
+              "description": "Two cubs ask big questions about the natural world.",
+              "duration_seconds": 510,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0071/poster",
+                "thumbnail": "/seed/ep_0071/thumbnail",
+                "banner": "/seed/ep_0071/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "A BRIDGE OF STONES",
+                  "duration_seconds": 510,
+                  "artwork": {
+                    "poster": "/seed/ep_0071/poster",
+                    "thumbnail": "/seed/ep_0071/thumbnail",
+                    "banner": "/seed/ep_0071/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "curious-cubs-s01e04",
+              "episode_number": 4,
+              "title": "The Midnight Market",
+              "description": "Two cubs ask big questions about the natural world.",
+              "duration_seconds": 510,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0072/poster",
+                "thumbnail": "/seed/ep_0072/thumbnail",
+                "banner": "/seed/ep_0072/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Midnight Market",
+                  "duration_seconds": 510,
+                  "artwork": {
+                    "poster": "/seed/ep_0072/poster",
+                    "thumbnail": "/seed/ep_0072/thumbnail",
+                    "banner": "/seed/ep_0072/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "curious-cubs-s01e05",
+              "episode_number": 5,
+              "title": "Footprints in Flour",
+              "description": "Two cubs ask big questions about the natural world.",
+              "duration_seconds": 480,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0073/poster",
+                "thumbnail": "/seed/ep_0073/thumbnail",
+                "banner": "/seed/ep_0073/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Footprints in Flour",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0073/poster",
+                    "thumbnail": "/seed/ep_0073/thumbnail",
+                    "banner": "/seed/ep_0073/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "curious-cubs-s01e06",
+              "episode_number": 6,
+              "title": "The Whistling Well",
+              "description": "Two cubs ask big questions about the natural world.",
+              "duration_seconds": 480,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0074/poster",
+                "thumbnail": "/seed/ep_0074/thumbnail",
+                "banner": "/seed/ep_0074/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Whistling Well",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0074/poster",
+                    "thumbnail": "/seed/ep_0074/thumbnail",
+                    "banner": "/seed/ep_0074/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "curious-cubs-s01e07",
+              "episode_number": 7,
+              "title": "Grandmother's Map",
+              "description": "Two cubs ask big questions about the natural world.",
+              "duration_seconds": 660,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0075/poster",
+                "thumbnail": "/seed/ep_0075/thumbnail",
+                "banner": "/seed/ep_0075/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Grandmother's Map",
+                  "duration_seconds": 660,
+                  "artwork": {
+                    "poster": "/seed/ep_0075/poster",
+                    "thumbnail": "/seed/ep_0075/thumbnail",
+                    "banner": "/seed/ep_0075/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "curious-cubs-s01e08",
+              "episode_number": 8,
+              "title": "The Runaway Cart",
+              "description": "Two cubs ask big questions about the natural world.",
+              "duration_seconds": 480,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0076/poster",
+                "thumbnail": "/seed/ep_0076/thumbnail",
+                "banner": "/seed/ep_0076/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Runaway Cart",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0076/poster",
+                    "thumbnail": "/seed/ep_0076/thumbnail",
+                    "banner": "/seed/ep_0076/banner"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "number-nest",
+      "title": "Number Nest",
+      "description": "Playful stories that sneak in early number sense.",
+      "section": "series",
+      "categories": [
+        "learning",
+        "maths"
+      ],
+      "artwork": {
+        "poster": "/seed/ep_0077/poster",
+        "banner": "/seed/ep_0077/banner"
+      },
+      "seasons": [
+        {
+          "season_number": 1,
+          "title": "Season 1",
+          "episodes": [
+            {
+              "content_group": "number-nest-s01e01",
+              "episode_number": 1,
+              "title": "The Lost Kite",
+              "description": "Playful stories that sneak in early number sense.",
+              "duration_seconds": 420,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0077/poster",
+                "thumbnail": "/seed/ep_0077/thumbnail",
+                "banner": "/seed/ep_0077/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Lost Kite",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0077/poster",
+                    "thumbnail": "/seed/ep_0077/thumbnail",
+                    "banner": "/seed/ep_0077/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "number-nest-s01e02",
+              "episode_number": 2,
+              "title": "rain on the roof",
+              "description": "Playful stories that sneak in early number sense.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0078/poster",
+                "thumbnail": "/seed/ep_0078/thumbnail",
+                "banner": "/seed/ep_0078/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "rain on the roof",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0078/poster",
+                    "thumbnail": "/seed/ep_0078/thumbnail",
+                    "banner": "/seed/ep_0078/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "number-nest-s01e03",
+              "episode_number": 3,
+              "title": "A Bridge of Stones",
+              "description": "Playful stories that sneak in early number sense.",
+              "duration_seconds": 510,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0079/poster",
+                "thumbnail": "/seed/ep_0079/thumbnail",
+                "banner": "/seed/ep_0079/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "A Bridge of Stones",
+                  "duration_seconds": 510,
+                  "artwork": {
+                    "poster": "/seed/ep_0079/poster",
+                    "thumbnail": "/seed/ep_0079/thumbnail",
+                    "banner": "/seed/ep_0079/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "number-nest-s01e04",
+              "episode_number": 4,
+              "title": "The Midnight Market",
+              "description": "Playful stories that sneak in early number sense.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0080/poster",
+                "thumbnail": "/seed/ep_0080/thumbnail",
+                "banner": "/seed/ep_0080/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Midnight Market",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0080/poster",
+                    "thumbnail": "/seed/ep_0080/thumbnail",
+                    "banner": "/seed/ep_0080/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "number-nest-s01e05",
+              "episode_number": 5,
+              "title": "Footprints in Flour",
+              "description": "Playful stories that sneak in early number sense.",
+              "duration_seconds": 540,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0081/poster",
+                "thumbnail": "/seed/ep_0081/thumbnail",
+                "banner": "/seed/ep_0081/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Footprints in Flour",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0081/poster",
+                    "thumbnail": "/seed/ep_0081/thumbnail",
+                    "banner": "/seed/ep_0081/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "number-nest-s01e06",
+              "episode_number": 6,
+              "title": "The Whistling Well",
+              "description": "Playful stories that sneak in early number sense.",
+              "duration_seconds": 510,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0082/poster",
+                "thumbnail": "/seed/ep_0082/thumbnail",
+                "banner": "/seed/ep_0082/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Whistling Well",
+                  "duration_seconds": 510,
+                  "artwork": {
+                    "poster": "/seed/ep_0082/poster",
+                    "thumbnail": "/seed/ep_0082/thumbnail",
+                    "banner": "/seed/ep_0082/banner"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "tiny-tales-banyan-dadi",
+      "title": "Tiny Tales by Banyan Dadi",
+      "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+      "section": "series",
+      "categories": [
+        "folk",
+        "stories",
+        "values"
+      ],
+      "artwork": {
+        "poster": "/seed/ep_0017/poster",
+        "banner": "/seed/ep_0017/banner"
+      },
+      "seasons": [
+        {
+          "season_number": 1,
+          "title": "Season 1",
+          "episodes": [
+            {
+              "content_group": "tiny-tales-banyan-dadi-s01e01",
+              "episode_number": 1,
+              "title": "The Lost Kite",
+              "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+              "duration_seconds": 540,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0017/poster",
+                "thumbnail": "/seed/ep_0017/thumbnail",
+                "banner": "/seed/ep_0017/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Lost Kite",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0017/poster",
+                    "thumbnail": "/seed/ep_0017/thumbnail",
+                    "banner": "/seed/ep_0017/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "The Lost Kite",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0018/poster",
+                    "thumbnail": "/seed/ep_0018/thumbnail",
+                    "banner": "/seed/ep_0018/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "tiny-tales-banyan-dadi-s01e02",
+              "episode_number": 2,
+              "title": "Rain on the Roof",
+              "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+              "duration_seconds": 480,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0019/poster",
+                "thumbnail": "/seed/ep_0019/thumbnail",
+                "banner": "/seed/ep_0019/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Rain on the Roof",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0019/poster",
+                    "thumbnail": "/seed/ep_0019/thumbnail",
+                    "banner": "/seed/ep_0019/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "Rain on the Roof",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0020/poster",
+                    "thumbnail": "/seed/ep_0020/thumbnail",
+                    "banner": "/seed/ep_0020/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "tiny-tales-banyan-dadi-s01e03",
+              "episode_number": 3,
+              "title": "A Bridge of Stones",
+              "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+              "duration_seconds": 600,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0021/poster",
+                "thumbnail": "/seed/ep_0021/thumbnail",
+                "banner": "/seed/ep_0021/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "A Bridge of Stones",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0021/poster",
+                    "thumbnail": "/seed/ep_0021/thumbnail",
+                    "banner": "/seed/ep_0021/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "A Bridge of Stones",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0022/poster",
+                    "thumbnail": "/seed/ep_0022/thumbnail",
+                    "banner": "/seed/ep_0022/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "tiny-tales-banyan-dadi-s01e04",
+              "episode_number": 4,
+              "title": "The Midnight Market",
+              "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+              "duration_seconds": 420,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0023/poster",
+                "thumbnail": "/seed/ep_0023/thumbnail",
+                "banner": "/seed/ep_0023/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Midnight Market",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0023/poster",
+                    "thumbnail": "/seed/ep_0023/thumbnail",
+                    "banner": "/seed/ep_0023/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "The Midnight Market",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0024/poster",
+                    "thumbnail": "/seed/ep_0024/thumbnail",
+                    "banner": "/seed/ep_0024/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "tiny-tales-banyan-dadi-s01e05",
+              "episode_number": 5,
+              "title": "Footprints in Flour",
+              "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+              "duration_seconds": 420,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0025/poster",
+                "thumbnail": "/seed/ep_0025/thumbnail",
+                "banner": "/seed/ep_0025/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Footprints in Flour",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0025/poster",
+                    "thumbnail": "/seed/ep_0025/thumbnail",
+                    "banner": "/seed/ep_0025/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "Footprints in Flour",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0026/poster",
+                    "thumbnail": "/seed/ep_0026/thumbnail",
+                    "banner": "/seed/ep_0026/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "tiny-tales-banyan-dadi-s01e06",
+              "episode_number": 6,
+              "title": "The Whistling Well",
+              "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+              "duration_seconds": 660,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0027/poster",
+                "thumbnail": "/seed/ep_0027/thumbnail",
+                "banner": "/seed/ep_0027/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Whistling Well",
+                  "duration_seconds": 660,
+                  "artwork": {
+                    "poster": "/seed/ep_0027/poster",
+                    "thumbnail": "/seed/ep_0027/thumbnail",
+                    "banner": "/seed/ep_0027/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "The Whistling Well",
+                  "duration_seconds": 660,
+                  "artwork": {
+                    "poster": "/seed/ep_0028/poster",
+                    "thumbnail": "/seed/ep_0028/thumbnail",
+                    "banner": "/seed/ep_0028/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "tiny-tales-banyan-dadi-s01e07",
+              "episode_number": 7,
+              "title": "Grandmother's Map",
+              "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0029/poster",
+                "thumbnail": "/seed/ep_0029/thumbnail",
+                "banner": "/seed/ep_0029/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Grandmother's Map",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0029/poster",
+                    "thumbnail": "/seed/ep_0029/thumbnail",
+                    "banner": "/seed/ep_0029/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "tiny-tales-banyan-dadi-s01e08",
+              "episode_number": 8,
+              "title": "The Runaway Cart",
+              "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+              "duration_seconds": 420,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0030/poster",
+                "thumbnail": "/seed/ep_0030/thumbnail",
+                "banner": "/seed/ep_0030/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Runaway Cart",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0030/poster",
+                    "thumbnail": "/seed/ep_0030/thumbnail",
+                    "banner": "/seed/ep_0030/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "tiny-tales-banyan-dadi-s01e09",
+              "episode_number": 9,
+              "title": "Songs of the Sea",
+              "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0031/poster",
+                "thumbnail": "/seed/ep_0031/thumbnail",
+                "banner": "/seed/ep_0031/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Songs of the Sea",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0031/poster",
+                    "thumbnail": "/seed/ep_0031/thumbnail",
+                    "banner": "/seed/ep_0031/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "tiny-tales-banyan-dadi-s01e10",
+              "episode_number": 10,
+              "title": "The Paper Boat",
+              "description": "Banyan Dadi tells short bedtime tales under the old banyan tree.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0032/poster",
+                "thumbnail": "/seed/ep_0032/thumbnail",
+                "banner": "/seed/ep_0032/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Paper Boat",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0032/poster",
+                    "thumbnail": "/seed/ep_0032/thumbnail",
+                    "banner": "/seed/ep_0032/banner"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "discover-india-with-moti",
+      "title": "Discover India with Moti",
+      "description": "Quick hops across Indian states with Moti as your guide.",
+      "section": "minisodes",
+      "categories": [
+        "india",
+        "learning",
+        "travel"
+      ],
+      "artwork": {
+        "poster": "/seed/ep_0033/poster",
+        "banner": "/seed/ep_0033/banner"
+      },
+      "seasons": [
+        {
+          "season_number": 1,
+          "title": "Season 1",
+          "episodes": [
+            {
+              "content_group": "discover-india-with-moti-s01e01",
+              "episode_number": 1,
+              "title": "The Lost Kite",
+              "description": "Quick hops across Indian states with Moti as your guide.",
+              "duration_seconds": 540,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0033/poster",
+                "thumbnail": "/seed/ep_0033/thumbnail",
+                "banner": "/seed/ep_0033/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Lost Kite",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0033/poster",
+                    "thumbnail": "/seed/ep_0033/thumbnail",
+                    "banner": "/seed/ep_0033/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "discover-india-with-moti-s01e02",
+              "episode_number": 2,
+              "title": "Rain on the Roof",
+              "description": "Quick hops across Indian states with Moti as your guide.",
+              "duration_seconds": 420,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0034/poster",
+                "thumbnail": "/seed/ep_0034/thumbnail",
+                "banner": "/seed/ep_0034/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Rain on the Roof",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0034/poster",
+                    "thumbnail": "/seed/ep_0034/thumbnail",
+                    "banner": "/seed/ep_0034/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "discover-india-with-moti-s01e03",
+              "episode_number": 3,
+              "title": "A Bridge of Stones",
+              "description": "Quick hops across Indian states with Moti as your guide.",
+              "duration_seconds": 480,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0035/poster",
+                "thumbnail": "/seed/ep_0035/thumbnail",
+                "banner": "/seed/ep_0035/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "A Bridge of Stones",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0035/poster",
+                    "thumbnail": "/seed/ep_0035/thumbnail",
+                    "banner": "/seed/ep_0035/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "discover-india-with-moti-s01e04",
+              "episode_number": 4,
+              "title": "The Midnight Market",
+              "description": "Quick hops across Indian states with Moti as your guide.",
+              "duration_seconds": 420,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/assets/poster/ep_0036.jpg",
+                "thumbnail": null,
+                "banner": "/assets/banner/ep_36.jpg"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Midnight Market",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/assets/poster/ep_0036.jpg",
+                    "thumbnail": null,
+                    "banner": "/assets/banner/ep_36.jpg"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "discover-india-with-moti-s01e05",
+              "episode_number": 5,
+              "title": "Footprints in Flour",
+              "description": "Quick hops across Indian states with Moti as your guide.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0037/poster",
+                "thumbnail": "/seed/ep_0037/thumbnail",
+                "banner": "/seed/ep_0037/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Footprints in Flour",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0037/poster",
+                    "thumbnail": "/seed/ep_0037/thumbnail",
+                    "banner": "/seed/ep_0037/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "discover-india-with-moti-s01e06",
+              "episode_number": 6,
+              "title": "The Whistling Well",
+              "description": "Quick hops across Indian states with Moti as your guide.",
+              "duration_seconds": 480,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0038/poster",
+                "thumbnail": "/seed/ep_0038/thumbnail",
+                "banner": "/seed/ep_0038/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Whistling Well",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0038/poster",
+                    "thumbnail": "/seed/ep_0038/thumbnail",
+                    "banner": "/seed/ep_0038/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "discover-india-with-moti-s01e07",
+              "episode_number": 7,
+              "title": "Grandmother's Map",
+              "description": "Quick hops across Indian states with Moti as your guide.",
+              "duration_seconds": 510,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0039/poster",
+                "thumbnail": "/seed/ep_0039/thumbnail",
+                "banner": "/seed/ep_0039/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Grandmother's Map",
+                  "duration_seconds": 510,
+                  "artwork": {
+                    "poster": "/seed/ep_0039/poster",
+                    "thumbnail": "/seed/ep_0039/thumbnail",
+                    "banner": "/seed/ep_0039/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "discover-india-with-moti-s01e08",
+              "episode_number": 8,
+              "title": "The Runaway Cart",
+              "description": "Quick hops across Indian states with Moti as your guide.",
+              "duration_seconds": 540,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0040/poster",
+                "thumbnail": "/seed/ep_0040/thumbnail",
+                "banner": "/seed/ep_0040/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Runaway Cart",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0040/poster",
+                    "thumbnail": "/seed/ep_0040/thumbnail",
+                    "banner": "/seed/ep_0040/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "discover-india-with-moti-s01e09",
+              "episode_number": 9,
+              "title": "Songs of the Sea",
+              "description": "Quick hops across Indian states with Moti as your guide.",
+              "duration_seconds": 480,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0041/poster",
+                "thumbnail": "/seed/ep_0041/thumbnail",
+                "banner": "/seed/ep_0041/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Songs of the Sea",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0041/poster",
+                    "thumbnail": "/seed/ep_0041/thumbnail",
+                    "banner": "/seed/ep_0041/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "discover-india-with-moti-s01e10",
+              "episode_number": 10,
+              "title": "The Paper Boat",
+              "description": "Quick hops across Indian states with Moti as your guide.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0042/poster",
+                "thumbnail": "/seed/ep_0042/thumbnail",
+                "banner": "/seed/ep_0042/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Paper Boat",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0042/poster",
+                    "thumbnail": "/seed/ep_0042/thumbnail",
+                    "banner": "/seed/ep_0042/banner"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "peblo-songs",
+      "title": "Peblo Songs",
+      "description": "Catchy singalongs for little learners.",
+      "section": "songs",
+      "categories": [
+        "music",
+        "singalong"
+      ],
+      "artwork": {
+        "poster": "/seed/ep_0043/poster",
+        "banner": "/seed/ep_0043/banner"
+      },
+      "seasons": [
+        {
+          "season_number": 1,
+          "title": "Season 1",
+          "episodes": [
+            {
+              "content_group": "peblo-songs-s01e01",
+              "episode_number": 1,
+              "title": "The Lost Kite",
+              "description": "Catchy singalongs for little learners.",
+              "duration_seconds": 420,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0043/poster",
+                "thumbnail": "/seed/ep_0043/thumbnail",
+                "banner": "/seed/ep_0043/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Lost Kite",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0043/poster",
+                    "thumbnail": "/seed/ep_0043/thumbnail",
+                    "banner": "/seed/ep_0043/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "The Lost Kite",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0044/poster",
+                    "thumbnail": "/seed/ep_0044/thumbnail",
+                    "banner": "/seed/ep_0044/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-s01e02",
+              "episode_number": 2,
+              "title": "Rain on the Roof",
+              "description": "Catchy singalongs for little learners.",
+              "duration_seconds": 510,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0045/poster",
+                "thumbnail": "/seed/ep_0045/thumbnail",
+                "banner": "/seed/ep_0045/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Rain on the Roof",
+                  "duration_seconds": 510,
+                  "artwork": {
+                    "poster": "/seed/ep_0045/poster",
+                    "thumbnail": "/seed/ep_0045/thumbnail",
+                    "banner": "/seed/ep_0045/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "Rain on the Roof",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0046/poster",
+                    "thumbnail": "/seed/ep_0046/thumbnail",
+                    "banner": "/seed/ep_0046/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-s01e03",
+              "episode_number": 3,
+              "title": "A Bridge of Stones",
+              "description": "Catchy singalongs for little learners.",
+              "duration_seconds": 660,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0047/poster",
+                "thumbnail": "/seed/ep_0047/thumbnail",
+                "banner": "/seed/ep_0047/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "A Bridge of Stones",
+                  "duration_seconds": 660,
+                  "artwork": {
+                    "poster": "/seed/ep_0047/poster",
+                    "thumbnail": "/seed/ep_0047/thumbnail",
+                    "banner": "/seed/ep_0047/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "A Bridge of Stones",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0048/poster",
+                    "thumbnail": "/seed/ep_0048/thumbnail",
+                    "banner": "/seed/ep_0048/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-s01e04",
+              "episode_number": 4,
+              "title": "The Midnight Market",
+              "description": "Catchy singalongs for little learners.",
+              "duration_seconds": 420,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0049/poster",
+                "thumbnail": "/seed/ep_0049/thumbnail",
+                "banner": "/seed/ep_0049/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Midnight Market",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0049/poster",
+                    "thumbnail": "/seed/ep_0049/thumbnail",
+                    "banner": "/seed/ep_0049/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "The Midnight Market",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0050/poster",
+                    "thumbnail": "/seed/ep_0050/thumbnail",
+                    "banner": "/seed/ep_0050/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-s01e05",
+              "episode_number": 5,
+              "title": "Footprints in Flour",
+              "description": "Catchy singalongs for little learners.",
+              "duration_seconds": 600,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0051/poster",
+                "thumbnail": "/seed/ep_0051/thumbnail",
+                "banner": "/seed/ep_0051/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Footprints in Flour",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0051/poster",
+                    "thumbnail": "/seed/ep_0051/thumbnail",
+                    "banner": "/seed/ep_0051/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "Footprints in Flour",
+                  "duration_seconds": 660,
+                  "artwork": {
+                    "poster": "/seed/ep_0052/poster",
+                    "thumbnail": "/seed/ep_0052/thumbnail",
+                    "banner": "/seed/ep_0052/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-s01e06",
+              "episode_number": 6,
+              "title": "The Whistling Well",
+              "description": "Catchy singalongs for little learners.",
+              "duration_seconds": 480,
+              "languages": [
+                "en",
+                "hi"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0053/poster",
+                "thumbnail": "/seed/ep_0053/thumbnail",
+                "banner": "/seed/ep_0053/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Whistling Well",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0053/poster",
+                    "thumbnail": "/seed/ep_0053/thumbnail",
+                    "banner": "/seed/ep_0053/banner"
+                  }
+                },
+                {
+                  "language": "hi",
+                  "title": "The Whistling Well",
+                  "duration_seconds": 510,
+                  "artwork": {
+                    "poster": "/seed/ep_0054/poster",
+                    "thumbnail": "/seed/ep_0054/thumbnail",
+                    "banner": "/seed/ep_0054/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-s01e07",
+              "episode_number": 7,
+              "title": "Grandmother's Map",
+              "description": "Catchy singalongs for little learners.",
+              "duration_seconds": 420,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0055/poster",
+                "thumbnail": "/seed/ep_0055/thumbnail",
+                "banner": "/seed/ep_0055/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Grandmother's Map",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0055/poster",
+                    "thumbnail": "/seed/ep_0055/thumbnail",
+                    "banner": "/seed/ep_0055/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-s01e08",
+              "episode_number": 8,
+              "title": "The Runaway Cart",
+              "description": "Catchy singalongs for little learners.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0056/poster",
+                "thumbnail": "/seed/ep_0056/thumbnail",
+                "banner": "/seed/ep_0056/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Runaway Cart",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0056/poster",
+                    "thumbnail": "/seed/ep_0056/thumbnail",
+                    "banner": "/seed/ep_0056/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-s01e09",
+              "episode_number": 9,
+              "title": "Songs of the Sea",
+              "description": "Catchy singalongs for little learners.",
+              "duration_seconds": 660,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0057/poster",
+                "thumbnail": "/seed/ep_0057/thumbnail",
+                "banner": "/seed/ep_0057/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Songs of the Sea",
+                  "duration_seconds": 660,
+                  "artwork": {
+                    "poster": "/seed/ep_0057/poster",
+                    "thumbnail": "/seed/ep_0057/thumbnail",
+                    "banner": "/seed/ep_0057/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-s01e10",
+              "episode_number": 10,
+              "title": "The Paper Boat",
+              "description": "Catchy singalongs for little learners.",
+              "duration_seconds": 420,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0058/poster",
+                "thumbnail": "/seed/ep_0058/thumbnail",
+                "banner": "/seed/ep_0058/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Paper Boat",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0058/poster",
+                    "thumbnail": "/seed/ep_0058/thumbnail",
+                    "banner": "/seed/ep_0058/banner"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "peblo-songs-lyrical",
+      "title": "Peblo Songs — Lyrical",
+      "description": "The same songs with words on screen to read along.",
+      "section": "songs",
+      "categories": [
+        "music",
+        "reading"
+      ],
+      "artwork": {
+        "poster": "/seed/ep_0059/poster",
+        "banner": "/seed/ep_0059/banner"
+      },
+      "seasons": [
+        {
+          "season_number": 1,
+          "title": "Season 1",
+          "episodes": [
+            {
+              "content_group": "peblo-songs-lyrical-s01e01",
+              "episode_number": 1,
+              "title": "The Lost Kite",
+              "description": "The same songs with words on screen to read along.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0059/poster",
+                "thumbnail": "/seed/ep_0059/thumbnail",
+                "banner": "/seed/ep_0059/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Lost Kite",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0059/poster",
+                    "thumbnail": "/seed/ep_0059/thumbnail",
+                    "banner": "/seed/ep_0059/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-lyrical-s01e02",
+              "episode_number": 2,
+              "title": "Rain on the Roof",
+              "description": "The same songs with words on screen to read along.",
+              "duration_seconds": 420,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0060/poster",
+                "thumbnail": "/seed/ep_0060/thumbnail",
+                "banner": "/seed/ep_0060/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Rain on the Roof",
+                  "duration_seconds": 420,
+                  "artwork": {
+                    "poster": "/seed/ep_0060/poster",
+                    "thumbnail": "/seed/ep_0060/thumbnail",
+                    "banner": "/seed/ep_0060/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-lyrical-s01e03",
+              "episode_number": 3,
+              "title": "A Bridge of Stones",
+              "description": "The same songs with words on screen to read along.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0061/poster",
+                "thumbnail": "/seed/ep_0061/thumbnail",
+                "banner": "/seed/ep_0061/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "A Bridge of Stones",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0061/poster",
+                    "thumbnail": "/seed/ep_0061/thumbnail",
+                    "banner": "/seed/ep_0061/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-lyrical-s01e04",
+              "episode_number": 4,
+              "title": "The Midnight Market",
+              "description": "The same songs with words on screen to read along.",
+              "duration_seconds": 480,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0062/poster",
+                "thumbnail": "/seed/ep_0062/thumbnail",
+                "banner": "/seed/ep_0062/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Midnight Market",
+                  "duration_seconds": 480,
+                  "artwork": {
+                    "poster": "/seed/ep_0062/poster",
+                    "thumbnail": "/seed/ep_0062/thumbnail",
+                    "banner": "/seed/ep_0062/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-lyrical-s01e05",
+              "episode_number": 5,
+              "title": "Footprints in Flour",
+              "description": "The same songs with words on screen to read along.",
+              "duration_seconds": 540,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0063/poster",
+                "thumbnail": "/seed/ep_0063/thumbnail",
+                "banner": "/seed/ep_0063/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Footprints in Flour",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0063/poster",
+                    "thumbnail": "/seed/ep_0063/thumbnail",
+                    "banner": "/seed/ep_0063/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-lyrical-s01e06",
+              "episode_number": 6,
+              "title": "The Whistling Well",
+              "description": "The same songs with words on screen to read along.",
+              "duration_seconds": 660,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0064/poster",
+                "thumbnail": "/seed/ep_0064/thumbnail",
+                "banner": "/seed/ep_0064/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Whistling Well",
+                  "duration_seconds": 660,
+                  "artwork": {
+                    "poster": "/seed/ep_0064/poster",
+                    "thumbnail": "/seed/ep_0064/thumbnail",
+                    "banner": "/seed/ep_0064/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-lyrical-s01e07",
+              "episode_number": 7,
+              "title": "Grandmother's Map",
+              "description": "The same songs with words on screen to read along.",
+              "duration_seconds": 600,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0065/poster",
+                "thumbnail": "/seed/ep_0065/thumbnail",
+                "banner": "/seed/ep_0065/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Grandmother's Map",
+                  "duration_seconds": 600,
+                  "artwork": {
+                    "poster": "/seed/ep_0065/poster",
+                    "thumbnail": "/seed/ep_0065/thumbnail",
+                    "banner": "/seed/ep_0065/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-lyrical-s01e08",
+              "episode_number": 8,
+              "title": "The Runaway Cart",
+              "description": "The same songs with words on screen to read along.",
+              "duration_seconds": 540,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0066/poster",
+                "thumbnail": "/seed/ep_0066/thumbnail",
+                "banner": "/seed/ep_0066/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Runaway Cart",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0066/poster",
+                    "thumbnail": "/seed/ep_0066/thumbnail",
+                    "banner": "/seed/ep_0066/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-lyrical-s01e09",
+              "episode_number": 9,
+              "title": "Songs of the Sea",
+              "description": "The same songs with words on screen to read along.",
+              "duration_seconds": 510,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0067/poster",
+                "thumbnail": "/seed/ep_0067/thumbnail",
+                "banner": "/seed/ep_0067/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "Songs of the Sea",
+                  "duration_seconds": 510,
+                  "artwork": {
+                    "poster": "/seed/ep_0067/poster",
+                    "thumbnail": "/seed/ep_0067/thumbnail",
+                    "banner": "/seed/ep_0067/banner"
+                  }
+                }
+              ]
+            },
+            {
+              "content_group": "peblo-songs-lyrical-s01e10",
+              "episode_number": 10,
+              "title": "The Paper Boat",
+              "description": "The same songs with words on screen to read along.",
+              "duration_seconds": 540,
+              "languages": [
+                "en"
+              ],
+              "artwork": {
+                "poster": "/seed/ep_0068/poster",
+                "thumbnail": "/seed/ep_0068/thumbnail",
+                "banner": "/seed/ep_0068/banner"
+              },
+              "variants": [
+                {
+                  "language": "en",
+                  "title": "The Paper Boat",
+                  "duration_seconds": 540,
+                  "artwork": {
+                    "poster": "/seed/ep_0068/poster",
+                    "thumbnail": "/seed/ep_0068/thumbnail",
+                    "banner": "/seed/ep_0068/banner"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

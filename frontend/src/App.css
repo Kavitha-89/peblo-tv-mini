@@ -1,0 +1,369 @@
+:root {
+  font-family:
+    Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  color: #f5f7fb;
+  background: #0b0d12;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background:
+    radial-gradient(circle at 10% 10%, rgba(91, 77, 180, 0.35), transparent 30%),
+    radial-gradient(circle at 90% 15%, rgba(20, 140, 170, 0.28), transparent 28%),
+    radial-gradient(circle at 50% 90%, rgba(170, 70, 120, 0.22), transparent 32%),
+    #0b0d12;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* ---------- Viewer ---------- */
+
+.viewer-page {
+  min-height: 100vh;
+  background: #0b0d12;
+}
+
+.viewer-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 5%;
+  background: rgba(11, 13, 18, 0.9);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.viewer-header h1 {
+  margin: 0;
+  font-size: 1.35rem;
+  letter-spacing: 0.08em;
+}
+
+.viewer-header a {
+  padding: 9px 16px;
+  border: 1px solid #39445d;
+  border-radius: 999px;
+  color: #dce5ff;
+  transition: 0.2s;
+}
+
+.viewer-header a:hover {
+  background: #1b2436;
+}
+
+.hero {
+  min-height: 420px;
+  display: flex;
+  align-items: end;
+  padding: 60px 6%;
+  background:
+    radial-gradient(circle at 75% 30%, rgba(80, 100, 220, 0.35), transparent 35%),
+    linear-gradient(90deg, #0b0d12 0%, rgba(11, 13, 18, 0.72) 45%, transparent),
+    linear-gradient(180deg, transparent 45%, #0b0d12 100%);
+}
+
+.hero-content {
+  max-width: 650px;
+}
+
+.hero h2 {
+  margin: 0 0 14px;
+  font-size: clamp(2.2rem, 5vw, 4.4rem);
+  line-height: 0.98;
+}
+
+.hero p {
+  max-width: 600px;
+  color: #b8c0d2;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.section-label {
+  display: inline-block;
+  margin-bottom: 12px;
+  color: #9fb8ff;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.catalogue-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 0 6% 30px;
+}
+
+.catalogue-controls input,
+.catalogue-controls select {
+  min-height: 42px;
+  padding: 0 14px;
+  border: 1px solid #30384a;
+  border-radius: 10px;
+  outline: none;
+  background: #151922;
+  color: #fff;
+}
+
+.catalogue-controls input {
+  min-width: 260px;
+  flex: 1;
+}
+
+.catalogue-controls input:focus,
+.catalogue-controls select:focus {
+  border-color: #708cff;
+}
+
+.catalogue-controls button {
+  border: 0;
+  border-radius: 10px;
+  padding: 0 18px;
+  background: #e8ecff;
+  color: #10131a;
+  font-weight: 700;
+}
+
+.show-section {
+  padding: 0 6% 48px;
+}
+
+.show-section > h2 {
+  margin-bottom: 8px;
+  font-size: 1.7rem;
+}
+
+.show-description {
+  max-width: 700px;
+  color: #8f98aa;
+  line-height: 1.5;
+}
+
+.show-meta {
+  display: inline-block;
+  margin: 8px 0 18px;
+  color: #9fb8ff;
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.season-title {
+  margin: 24px 0 14px;
+  font-size: 1.1rem;
+}
+
+.episode-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 18px;
+}
+
+.episode-card {
+  overflow: hidden;
+  border: 1px solid #252c3b;
+  border-radius: 14px;
+  background: #12151d;
+  transition:
+    transform 0.2s,
+    border-color 0.2s,
+    box-shadow 0.2s;
+}
+
+.episode-card:hover {
+  transform: translateY(-4px);
+  border-color: #46557a;
+  box-shadow: 0 14px 35px rgba(0, 0, 0, 0.3);
+}
+
+.episode-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: #1a1e27;
+}
+
+.episode-card-content {
+  padding: 14px;
+}
+
+.episode-card h3 {
+  margin: 0 0 8px;
+  font-size: 1rem;
+}
+
+.episode-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  color: #8f98aa;
+  font-size: 0.82rem;
+}
+
+.language-badge {
+  color: #b9c7ff;
+  font-weight: 700;
+}
+
+/* ---------- CMS ---------- */
+
+.cms-page {
+  min-height: 100vh;
+  padding-bottom: 50px;
+  background: #0b0d12;
+}
+
+.cms-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 5%;
+  border-bottom: 1px solid #252b38;
+  background: #11141b;
+}
+
+.cms-header h1 {
+  margin: 0;
+}
+
+.cms-panel,
+.cms-card {
+  margin: 24px auto;
+  width: min(1100px, 90%);
+  padding: 24px;
+  border: 1px solid #292f3d;
+  border-radius: 16px;
+  background: #12161f;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+}
+
+.cms-panel h2,
+.cms-panel h3 {
+  margin-top: 0;
+}
+
+.cms-panel input,
+.cms-panel select,
+.cms-panel textarea {
+  width: 100%;
+  margin: 7px 0 15px;
+  padding: 11px 13px;
+  border: 1px solid #30384a;
+  border-radius: 9px;
+  background: #0d1017;
+  color: #fff;
+  outline: none;
+}
+
+.cms-panel input:focus,
+.cms-panel select:focus,
+.cms-panel textarea:focus {
+  border-color: #708cff;
+}
+
+.cms-panel button {
+  padding: 10px 17px;
+  border: 0;
+  border-radius: 9px;
+  background: #dfe6ff;
+  color: #11141b;
+  font-weight: 700;
+}
+
+.cms-panel button:hover {
+  filter: brightness(1.08);
+}
+
+.artwork-upload {
+  display: grid;
+  gap: 8px;
+}
+
+.artwork-help {
+  color: #8f98aa;
+}
+
+.artwork-rule {
+  display: grid;
+  gap: 4px;
+  margin: 5px 0 12px;
+  padding: 12px;
+  border-radius: 10px;
+  background: #0d1017;
+  color: #aeb7c9;
+}
+
+.artwork-rule strong {
+  color: #fff;
+}
+
+.artwork-error {
+  padding: 10px 12px;
+  border-radius: 9px;
+  background: rgba(190, 60, 70, 0.15);
+  color: #ff9da5;
+}
+
+.artwork-success {
+  padding: 10px 12px;
+  border-radius: 9px;
+  background: rgba(60, 170, 110, 0.14);
+  color: #8be0ad;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 700px) {
+  .viewer-header,
+  .cms-header {
+    padding: 15px 4%;
+  }
+
+  .hero {
+    min-height: 360px;
+    padding: 45px 5%;
+  }
+
+  .show-section,
+  .catalogue-controls {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .catalogue-controls input {
+    min-width: 100%;
+  }
+
+  .episode-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+}
