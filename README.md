@@ -900,3 +900,115 @@ Dry-run publishing diff
 Complete CI/CD deployment infrastructure
 
 These can be added without fundamentally changing the core content model or viewer/publishing architecture.
+
+38. Development Workflow
+
+The main development workflow was:
+
+Requirement Analysis
+        ↓
+Database Design
+        ↓
+Backend API
+        ↓
+Authentication
+        ↓
+Artwork Validation
+        ↓
+Catalogue Validation
+        ↓
+Publishing
+        ↓
+React CMS
+        ↓
+React Viewer
+        ↓
+Integration Testing
+        ↓
+Documentation
+39. Core User Flow
+Editor
+Login
+  ↓
+Open CMS
+  ↓
+Manage Content
+  ↓
+Upload Artwork
+  ↓
+View Validation Report
+  ↓
+Fix Content Issues
+Admin
+Login
+  ↓
+Open CMS
+  ↓
+Manage Content
+  ↓
+Review Validation
+  ↓
+Publish Catalogue
+  ↓
+Published Version Created
+Viewer
+Open Viewer
+  ↓
+Load Published Catalogue
+  ↓
+Browse Sections
+  ↓
+Search / Filter
+  ↓
+Open Show
+  ↓
+Browse Seasons
+  ↓
+View Episodes
+  ↓
+Select Language Variant
+40. Summary
+
+The project implements the complete core workflow:
+
+             CMS
+              │
+              ▼
+        FastAPI Backend
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+   PostgreSQL     Artwork
+       │             │
+       └──────┬──────┘
+              ▼
+          Validation
+              │
+              ▼
+           Publish
+              │
+              ▼
+     Published Catalogue
+              │
+              ▼
+          React Viewer
+
+The main design priorities were:
+
+Validate content before publication.
+Enforce roles at the backend.
+Prevent invalid artwork from being stored.
+Group language variants correctly.
+Keep draft content out of the public viewer.
+Treat the published catalogue as a stable snapshot.
+Keep the viewer independent from administrative APIs.
+Provide a clear path from the assessment implementation to a production-ready architecture.
+
+### After you paste it
+
+Save the file, then run:
+
+```powershell
+git add README.md
+git commit -m "Finalize assessment README"
+git push
