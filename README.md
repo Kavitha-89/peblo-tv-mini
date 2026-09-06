@@ -1004,8 +1004,6 @@ Treat the published catalogue as a stable snapshot.
 Keep the viewer independent from administrative APIs.
 Provide a clear path from the assessment implementation to a production-ready architecture.
 
-### After you paste it
-
 Save the file, then run:
 
 ```powershell
