@@ -213,39 +213,22 @@ The application provides:
 Architecture
 
 React CMS
-
-&#x20;   |
-
-&#x20;   v
-
-FastAPI API
-
-&#x20;   |
-
-&#x20;   +---- PostgreSQL
-
-&#x20;   |
-
-&#x20;   +---- Artwork Storage
-
-&#x20;   |
-
-&#x20;   v
-
+    |
+    v
+FastAPI API 
+     +
+PostgreSQL
+     +
+Artwork Storage
+     |
+     v
 Publish Service
-
-&#x20;   |
-
-&#x20;   v
-
+     |
+     v
 Published Catalogue
-
-&#x20;   |
-
-&#x20;   v
-
+     |
+     v
 React Viewer
-
 
 
 The viewer consumes the published catalogue rather than admin APIs. This keeps the public experience independent from CMS operations.
